@@ -6,7 +6,7 @@ export const dbConfig: ConnectionOptions = {
   port: 5432,
   username: "postgres",
   password: "pg",
-  database: "CRP",
+  database: "postgres",
 
 }
 
